@@ -1,7 +1,5 @@
 #include "monty.h"
 
-int global_var = 0;
-
 /**
   * main - executes the commandline arguments
   * @ac: counts the opcode.
