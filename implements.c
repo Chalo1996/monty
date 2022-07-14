@@ -76,7 +76,7 @@ instruct_func check_opcode(char *str)
 #include "monty.h"
 
 /**
- * parse_line - parses the opcode line.
+ * line_parser - parses the opcode line.
  * @line: line to be parsed
  *
  * Return: opcode, null otherwise.
