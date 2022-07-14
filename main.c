@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "extern.h"
 
 /**
   * main - executes the commandline arguments
