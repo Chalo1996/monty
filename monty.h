@@ -8,8 +8,6 @@
 #include <unistd.h>
 #include <ctype.h>
 
-extern int global_var;
-
 /**
   * struct stack_s - doubly linked list representation of a stack (or queue)
   * @n: integer

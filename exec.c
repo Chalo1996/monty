@@ -1,4 +1,6 @@
+#define DEFINE_VARIABLES
 #include "monty.h"
+#include "extern.h"
 
 /**
   * _push - push int to a stack

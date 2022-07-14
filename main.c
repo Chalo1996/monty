@@ -1,6 +1,5 @@
 #include "monty.h"
-
-int global_var = 0;
+#include "extern.h"
 
 /**
   * main - executes the commandline arguments
