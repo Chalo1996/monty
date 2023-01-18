@@ -2,7 +2,7 @@
 ---
 ---
 
-## Stack(LIFO/FILO)
+### Stack(LIFO/FILO)
 ---
 ### Operations Implemented:
 ```
@@ -12,4 +12,4 @@ peep - Returns the last item
 ```
 __A stack is empty if index == -1 is True__
 ---
-## Queue(LILO/FIFO)
+### Queue(LILO/FIFO)
